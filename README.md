@@ -1,0 +1,2 @@
+# Simple-chat-application-using-reactjs-socket-io-websockets-and-node-js
+Here’s a concise description for your repository:  ---  A real-time chat application using React and Socket.IO. Users can join chat rooms and send messages instantly. Built with React for the frontend and Node.js for the backend, featuring real-time communication and user notifications. See setup instructions and details in the README.
