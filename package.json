@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "concurrently": "^8.2.2",
+    "dotenv": "^16.4.5"
+  },
+  "scripts": {
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\"",
+    "frontend": "cd client && npm run dev",
+    "backend": "cd server && npm run server"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
